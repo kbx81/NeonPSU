@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NeonPSUTestPCB")(type "KiCad")(uri "${KIPRJMOD}/NeonPSUTestPCB.kicad_sym")(options "")(descr ""))
+)

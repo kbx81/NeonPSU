@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "NeonPSUTestPCB")(type "KiCad")(uri "${KIPRJMOD}/NeonPSUTestPCB.pretty")(options "")(descr ""))
+)
