@@ -42,7 +42,7 @@
         "silk_text_size_h": 1.0,
         "silk_text_size_v": 1.0,
         "silk_text_thickness": 0.19999999999999998,
-        "silk_text_upright": false,
+        "silk_text_upright": true,
         "zones": {
           "45_degree_only": false,
           "min_clearance": 0.254
@@ -396,7 +396,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "NeonDimmablePSU.kicad_pro",
+    "filename": "SmartNeonPSU.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -476,9 +476,9 @@
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 2.0,
-        "via_diameter": 3.0,
-        "via_drill": 1.5,
+        "track_width": 1.27,
+        "via_diameter": 1.5,
+        "via_drill": 0.7,
         "wire_width": 6.0
       },
       {
@@ -493,7 +493,6 @@
         "name": "LV",
         "nets": [
           "+3V3",
-          "/TPS_VCC",
           "/V5",
           "/V5A",
           "/V5C",
