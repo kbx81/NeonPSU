@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "SmartNeonPSU")(type "KiCad")(uri "${KIPRJMOD}/SmartNeonPSU.pretty")(options "")(descr ""))
+)
